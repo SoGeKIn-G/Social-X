@@ -7,11 +7,11 @@ https://user-images.githubusercontent.com/91014874/216380010-ed265cb0-0fd6-45f2-
 
 # Libraries that I have used in this application
 1- Volley - for API Calls and Caching the data 
-#  
+<br>
 2- Glide - for loading the images from API Source in the recycler View
-#  
+<br>
 3- Firebase - for user authentication
-#  
+<br>
 4- SearchView - for searching the specific news
 
 # 
@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/91014874/216380010-ed265cb0-0fd6-45f2-
 
 # Tech
 1- Language: Kotlin
-#  
+<br>
 2- Platform: Android Studio
 
 #  
