@@ -26,11 +26,12 @@ https://user-images.githubusercontent.com/91014874/216380010-ed265cb0-0fd6-45f2-
 #  
 
 # Features
-1- User Signup #
+1- User Signup 
+<br>
 2- User Authentication
-#  
+<br>
 3- Firebase Auth with Google
-#  
+<br>
 4- Shows news item in recycler view
-#  
+<br>
 5- Search View
