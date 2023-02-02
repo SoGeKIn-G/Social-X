@@ -26,8 +26,7 @@ https://user-images.githubusercontent.com/91014874/216380010-ed265cb0-0fd6-45f2-
 #  
 
 # Features
-1- User Signup
-#  
+1- User Signup #
 2- User Authentication
 #  
 3- Firebase Auth with Google
